@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @hasnainalsyed
 - 👀 I’m interested in JavaScript
 - 🌱 I’m currently learning React/Next JS
+- 💻 I'm currently working on Shopify
 - 💞️ I’m looking to collaborate on Frontend Development
 - 📫 How to reach me hasnainalsye@gmail.com
 
